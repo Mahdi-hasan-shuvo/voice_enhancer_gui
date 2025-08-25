@@ -46,9 +46,9 @@ docs/
 Example Markdown you can use in your README once you add files:
 
 ```md
-![App screenshot](docs/screenshot_dark.png)
+![App screenshot]
 ```
-
+<img width="991" height="821" alt="image" src="https://github.com/user-attachments/assets/e1920a5b-4c2d-4e7a-a015-880c5f29a466" />
 ---
 
 ## 🔧 Installation
@@ -203,7 +203,7 @@ Open an issue or PR if you want any of these!
 - [FFmpeg](https://ffmpeg.org/)
 
 ---
-<img width="991" height="821" alt="image" src="https://github.com/user-attachments/assets/e1920a5b-4c2d-4e7a-a015-880c5f29a466" />
+
 
 ## 📜 License
 
